@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitDemo", "SplitDemo\SplitDemo.csproj", "{2A877392-407E-4ED3-83C3-A01863CB5E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Release|iPhone.Build.0 = Release|iPhone
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2A877392-407E-4ED3-83C3-A01863CB5E9A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SplitDemo\SplitDemo.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = VisualStudio
+		$2.inheritsScope = text/plain
+		$2.scope = text/plain
+	EndGlobalSection
+EndGlobal

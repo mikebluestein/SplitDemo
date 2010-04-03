@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SplitDemo/DetailViewController.xib.cs" ctype="Workbench">
+    <Files>
+      <File FileName="SplitDemo/MasterTableViewController.cs" Line="1" Column="1" />
+      <File FileName="SplitDemo/DetailViewController.xib.cs" Line="57" Column="1" />
+      <File FileName="SplitDemo/Main.cs" Line="1" Column="1" />
+      <File FileName="SplitDemo/SplitDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SplitDemo" expanded="True">
+            <Node name="DetailViewController.xib" expanded="True">
+              <Node name="DetailViewController.xib.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
